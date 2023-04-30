@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osama Rimawi</h1>
-<h3 align="center">A Computer Engineering bachelor with a specialization in AI, while having a strong foundation in hardware and software design in areas such as programming, circuit design, and digital systems. I also have a deep understanding of machine learning algorithms.</h3>
+<h3 align="center">A Computer Engineering bachelor with a specialization in AI, here you can find some of my Projects or Classworks.</h3>
 
 - 🔭 I’m currently studying Computer Engineering at [Birzeit University](https://www.facebook.com/BirzeitUniversity)
 
