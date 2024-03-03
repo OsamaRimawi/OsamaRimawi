@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Osama Rimawi</h1>
 <h3 align="center">A Software Engineer with a solid background in backend development.</h3>
 
-- 🔭 I’m currently studying **Computer Engineering at Birzeit University**
+- 🔭 Bachelor's degree in **Computer Engineering with AI specialization at Birzeit University**
 
 - 🌱 I’m currently learning **Web development (Back End, Front End ,Full stack)**
 
