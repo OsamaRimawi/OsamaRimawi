@@ -3,7 +3,7 @@
 
 - 🔭 Bachelor's degree in **Computer Engineering with AI specialization at Birzeit University**
 
-- 🌱 I’m currently learning **Web development (Back End, Front End ,Full stack)**
+- 🌱 I’m currently learning **Web development**
 
 - ⚡ I'm interested in **AI and ML fields**
 
