@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Osama Rimawi</h1>
-<h3 align="center">Software Engineer / Backend Development.</h3>
+<h3 align="center">Software Engineer / Backend Development</h3>
 
 - 💼 I'm currently working as a **Software Developer specializing in backend engineering**
 
